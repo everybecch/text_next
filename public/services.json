@@ -1,0 +1,20 @@
+{
+  "services": [
+    {
+      "name": "SERPRO",
+      "status": "bom"
+    },
+    {
+      "name": "Conselho Nacional De Justiça",
+      "status": "fora do ar"
+    },
+    {
+      "name": "Tribunal De Justiça",
+      "status": "apresentando lentidão"
+    },
+    {
+      "name": "Supremo Tribunal Federal",
+      "status": "excelente" 
+    }
+  ]
+}
