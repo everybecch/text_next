@@ -1,4 +1,6 @@
-Bem-vindo ao Projeto Next.js!
+# Bem-vindo ao Projeto Next.js!
+
+![Exemplo](img/exemplo1.png)
 
 Visão Geral
 Este é um projeto simples criado com Next.js, uma estrutura de desenvolvimento web em React. Você pode começar a usá-lo seguindo os passos abaixo.
