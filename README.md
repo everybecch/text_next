@@ -1,8 +1,20 @@
-#Bem-vindo ao Projeto Next.js!
+# Bem-vindo ao Projeto Next.js!
 
-![Exemplo](img/exemplo1.png)
+## Sobre
+Painel com atualizacao de status de serviço, dados mocados.
 
-Visão Geral
+## Tecnologias Utilizadas
+
+- NextJS: Utilizado para criar a estrutura da aplicação web.
+- React-Native: Utilizado para realizar o front-end.
+- Typescript: Utilizado como estrutura base.
+- JavaScript: Utilizado no back-end
+- CSS: Utilizados para criar estilisar interface.
+
+
+![Exemplo 1](img/exemplo1.png)
+
+## Visão Geral
 Este é um projeto simples criado com Next.js, uma estrutura de desenvolvimento web em React. Você pode começar a usá-lo seguindo os passos abaixo.
 
 Como Usar
